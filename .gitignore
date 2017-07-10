@@ -1,0 +1,24 @@
+
+
+username =
+password =
+
+username = bob
+password = secretpassword
+
+
+hostname$ more .gitignore
+build
+ant.build
+*.swp
+build.properties
+
+hostname$ git status
+# On branch dev
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#   modified:   build.properties
+#
+no changes added to commit (use "git add" and/or "git commit -a")
